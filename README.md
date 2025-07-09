@@ -45,10 +45,6 @@ Facilitar o estudo bíblico de forma moderna, interativa e acessível, permitind
 
 ---
 
-## 📦 Instalação
+## 📦 Instalação 
 
-```bash
 git clone https://github.com/julianadesouzamartins/final_atvMobile.git
-cd seu-repositorio
-flutter pub get
-flutter run
