@@ -61,10 +61,10 @@ Facilitar o estudo bíblico de forma moderna, interativa e acessível, permitind
 ![Livros da Biblia](assets/image/livros_da_biblia.jpeg)
 
 ### 📘 Exibição de Capítulo (ex: Gênesis 1)
-![Capítulo Gênesis 1](assets/image/genesis_1.jpeg)
+![Capítulo Gênesis 1](assets/image/exibe_cap.jpeg)
 
 ### 📘 Exibição de Capítulo (ex: Gênesis 1)
-![Capítulo Gênesis 1](assets/image/exibe_cap.jpeg)
+![Capítulo Gênesis 1](assets/image/genesis_1.jpeg)
 
 ### 📖 Tela de Estudo com IA
 ![Estudo com IA](assets/image/detalhe_estudo_in.jpeg)
