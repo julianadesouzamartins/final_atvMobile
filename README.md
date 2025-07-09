@@ -57,12 +57,13 @@ Facilitar o estudo bíblico de forma moderna, interativa e acessível, permitind
 ### 🔐 Recuperação de Senha
 ![Recuperação de Senha](assets/image/recuperar_senha.jpeg)
 
+### 🧾 livros da Biblia
+![Livros da Biblia](assets/image/livros_da_biblia.jpeg)
+
 
 ### 📖 Tela de Estudo com IA
 ![Estudo com IA](assets/image/detalhe_estudo_in.jpeg)
 
-### 🧾 livros da Biblia
-![Livros da Biblia](assets/image/livros_da_biblia.jpeg)
 
 ### 🧾 Detalhes do Estudo
 ![Detalhes do Estudo](assets/image/detalhes_estudo.jpeg)
