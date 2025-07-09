@@ -79,11 +79,6 @@ Facilitar o estudo bíblico de forma moderna, interativa e acessível, permitind
 ![Biblioteca](assets/image/biblioteca.jpeg)
 
 
-### 📘 Exibição de Capítulo (ex: Gênesis 1)
-![Capítulo Gênesis 1](assets/image/genesis_1.jpeg)
-
-
-
 ### 🔗 Link Externo
 ![Link Externo](assets/image/link_externo.jpeg)
 
