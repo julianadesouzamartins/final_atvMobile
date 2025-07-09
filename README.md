@@ -45,6 +45,45 @@ Facilitar o estudo bíblico de forma moderna, interativa e acessível, permitind
 
 ---
 
-## 📦 Instalação 
+
+## Capturas de Tela 
+
+###  Tela de login
+![Tela de login](assets/image/tela_login.jpeg)
+
+### 🔐 login
+![login](assets/image/login.jpeg)
+
+### 🔐 Recuperação de Senha
+![Recuperação de Senha](assets/image/recuperar_senha.jpeg)
+
+
+### 📖 Tela de Estudo com IA
+![Estudo com IA](assets/image/detalhe_estudo_in.jpeg)
+
+### 🧾 livros da Biblia
+![Livros da Biblia](assets/image/livros_da_biblia.jpeg)
+
+### 🧾 Detalhes do Estudo
+![Detalhes do Estudo](assets/image/detalhes_estudo.jpeg)
+
+### 🧾 Detalhes do Estudo
+![Detalhes do Estudo](assets/image/detalhes.jpeg)
+
+### 💾 Biblioteca de Estudos Salvos
+![Biblioteca](assets/image/biblioteca.jpeg)
+
+
+### 📘 Exibição de Capítulo (ex: Gênesis 1)
+![Capítulo Gênesis 1](assets/image/genesis_1.jpeg)
+
+### 📘 Exibição de Capítulo (ex: Gênesis 1)
+![Capítulo Gênesis 1](assets/image/exibe_cap.jpeg)
+
+### 🔗 Link Externo
+![Link Externo](assets/image/link_externo.jpeg)
+
+
+## Autor 
 
 git clone https://github.com/julianadesouzamartins/final_atvMobile.git
